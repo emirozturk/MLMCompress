@@ -73,8 +73,6 @@ def UnRLE(byteArray):
             i+=1
     return result
 
-# from collections import Counter
-# import dahuffman
 import huff
 import re
 
